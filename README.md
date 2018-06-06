@@ -8,7 +8,7 @@ Basic tutorial to generate inference in OWL using SWRL rules
   
 # Dependencies
 <pre>Apache Jena version 3.0</pre>
-Maven
+### Maven
   ```xml
 <dependency>
     <groupId>org.apache.jena</groupId>
